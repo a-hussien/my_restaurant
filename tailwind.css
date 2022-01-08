@@ -11,5 +11,5 @@
     @apply bg-gray-300 text-gray-700 text-xs font-semibold uppercase rounded-full p-2 absolute top-1 mt-2 ml-2;
 }
 .btn {
-    @apply py-2 px-3 rounded-full text-xs uppercase font-bold cursor-pointer tracking-wider transition duration-150 ease-out;
+    @apply py-2 px-3 rounded-full text-xs uppercase font-bold cursor-pointer tracking-wider transition duration-500 ease-out;
 }
