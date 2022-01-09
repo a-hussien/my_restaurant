@@ -6,7 +6,8 @@
   "scripts": {
     "start": "npm run lite",
     "watch": "npx tailwindcss -i tailwind.css -o ./layouts/css/styles.css --watch",
-    "lite": "lite-server"
+    "lite": "lite-server",
+    "up": "json-server --watch layouts/data/data.json"
   },
   "keywords": [],
   "author": "Ahmed Hussein",

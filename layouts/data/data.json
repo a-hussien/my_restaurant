@@ -1,0 +1,46 @@
+{
+    "foods": 
+    [
+        {
+            "id": 1,
+            "name": "Pizza",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, sed fugiat minus provident vitae cupiditate quod pariatur voluptatibus magnam exercitationem",
+            "chef": "ipsum dolor",
+            "time": 10,
+            "media": "pizza"
+        },
+        {
+            "id": 2,
+            "name": "Makroni",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, sed fugiat minus provident vitae cupiditate quod pariatur voluptatibus magnam exercitationem",
+            "chef": "ipsum dolor",
+            "time": 15,
+            "media": "makroni"
+        },
+        {
+            "id": 3,
+            "name": "Sea Food",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, sed fugiat minus provident vitae cupiditate quod pariatur voluptatibus magnam exercitationem",
+            "chef": "ipsum dolor",
+            "time": 20,
+            "media": "olsson"
+        },
+        {
+            "id": 4,
+            "name": "Metato",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, sed fugiat minus provident vitae cupiditate quod pariatur voluptatibus magnam exercitationem",
+            "chef": "ipsum dolor",
+            "time": 18,
+            "media": "choquette"
+        },
+        {
+            "id": 5,
+            "name": "Bazarelo",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, sed fugiat minus provident vitae cupiditate quod pariatur voluptatibus magnam exercitationem",
+            "chef": "ipsum dolor",
+            "time": 36,
+            "media": "pie"
+        }
+
+    ]
+}
