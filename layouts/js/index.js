@@ -16,7 +16,8 @@ burger.addEventListener('click', () => {
 const foodCard = document.getElementById("foods");
 
 const renderFoods = async () => {
-    let uri = 'http://localhost:3000/foods';
+    let uri = 'https://my-tail-restaurant.netlify.app/data/data.json'; // for netifly
+    // let uri = 'http://localhost:3000/foods'; // for local
     const response = await fetch(uri);
     const foods = await response.json();
     let cards = '';
